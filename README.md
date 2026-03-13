@@ -212,10 +212,14 @@ function Decoder(bytes, port) {
 };*
 ```
 # CIRCUIT DIAGRAM:
-
+<img width="432" height="635" alt="WhatsApp Image 2026-03-13 at 10 09 41" src="https://github.com/user-attachments/assets/ef319c66-5319-4ba7-acbe-68675e5385a7" />
 
 
 # OUTPUT:
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/6b86036a-5d84-4988-86c3-9e76bd2b116c" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/c7719e17-e16e-4245-a706-4de329e206a0" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/51e54388-b7f0-4022-a315-78023e2904ae" />
+
 
 
 # RESULT:
